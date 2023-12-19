@@ -59,3 +59,5 @@ notelab-cors:
 
 web:
   url: 'http://localhost:4200/#'
+
+new:
