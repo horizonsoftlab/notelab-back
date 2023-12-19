@@ -36,9 +36,6 @@ springdoc:
     path: /documentation
 
 notelab:
-  app:
-    jwtSecret: notelab
-    jwtExpiration: 300
   mail:
     from: 'bankaismash@gmail.com'
 
